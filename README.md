@@ -15,7 +15,7 @@ Window Buffer size:  width = 195 , height = 104
 
                  ++(Commands)++
 Note: The character commands support caps lock off and on (both)  except for commands with signs like the front slash
-But it is recommended that you keep the 'caps look off'.
+But it is recommended that you keep the 'caps lock off'.
 
 - In order to move in the grid you can simply use the arrow keys.
 - Command 1: '/' (front slash) for seleting the current cell and then you can add text in the cell 
